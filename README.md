@@ -1,4 +1,4 @@
-# Hi, I'm Amha Endrayes
+# Hi, I'm Amha Endrayes 👋
 
 **Software & Mechatronics Engineer** focused on **Backend Systems, AI/ML, Embedded Systems, IoT, and Systems Integration**.
 
@@ -28,30 +28,19 @@ With 6+ years of engineering experience, I have worked across backend developmen
 
 ## Technical Stack
 
-### Languages
-`Python` · `C` · `C++` · `JavaScript` · `Bash`
+| Category | Technologies |
+|---|---|
+| **Languages** | Python · C · C++ · JavaScript · Bash |
+| **Backend & APIs** | FastAPI · Flask · Django · Node.js · REST · WebSockets |
+| **AI / ML** | LLM Applications · RAG · LangChain · Computer Vision · YOLO · CNNs · Predictive Analytics · Edge AI |
+| **Frontend** | React · Next.js · Vue.js · MERN |
+| **Databases** | PostgreSQL · MongoDB · InfluxDB · CouchDB |
+| **Embedded** | ESP32 · STM32 · nRF5xxx · Arduino · Raspberry Pi |
+| **Industrial / IoT** | MQTT · Modbus · OPC UA · RS485 · BLE · I2C · SPI · UART |
+| **DevOps & Infrastructure** | Linux · Docker · GitHub Actions · CI/CD · VPS Administration · Caddy |
+| **Engineering Tools** | SolidWorks · CFD · MATLAB · 3D Printing · CNC |
 
-### Backend & APIs
-`FastAPI` · `Flask` · `Django` · `Node.js` · `REST` · `WebSockets`
 
-### AI / ML
-`LLM Applications` · `RAG` · `LangChain` · `Computer Vision` · `YOLO` · `CNNs` · `Predictive Analytics` · `Edge AI`
-
-### Embedded & IoT
-`ESP32` · `STM32` · `nRF5xxx` · `Arduino` · `Raspberry Pi` · `MQTT`  
-`I2C` · `SPI` · `UART` · `RS485` · `Modbus` · `OPC UA` · `BLE`
-
-### Web
-`React` · `Next.js` · `Vue.js` · `MERN`
-
-### Databases
-`PostgreSQL` · `MongoDB` · `InfluxDB` · `CouchDB`
-
-### DevOps & Infrastructure
-`Linux` · `Docker` · `GitHub Actions` · `CI/CD` · `VPS Administration` · `Caddy`
-
-### Engineering
-`SolidWorks` · `CFD` · `MATLAB` · `3D Printing` · `CNC`
 
 ## Areas of Interest
 
@@ -89,9 +78,8 @@ I have worked on systems involving:
 - Hardware prototyping, CAD, CFD, and automation
 
 
-## Find Me
+## Let's Talk
 
-- GitHub: [github.com/Amha-Endrayes](https://github.com/Amha-Endrayes)
 - LinkedIn: [linkedin.com/in/amha-endrayes](https://www.linkedin.com/)
 - Website / Links: [linktr.ee/amha.endrayes](https://linktr.ee/amha.endrayes)
 
