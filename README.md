@@ -1,44 +1,100 @@
-## Hi there 👋
+# Hi, I'm Amha Endrayes
+
+**Software & Mechatronics Engineer** focused on **Backend Systems, AI/ML, Embedded Systems, IoT, and Systems Integration**.
+
+I build software and hardware systems that connect intelligent applications, physical devices, and real-world data.
+
+With 6+ years of engineering experience, I have worked across backend development, AI/ML, computer vision, industrial IoT, embedded systems, DevOps, and automation. My background in mechatronics gives me a strong understanding of both the software and hardware sides of a system.
+
+## What I Work On
+
+- **Backend Engineering**  
+  Designing RESTful APIs, real-time services, data pipelines, and backend systems using Python and JavaScript.
+
+- **AI / Machine Learning**  
+  Building LLM and RAG systems, computer vision pipelines, predictive models, and edge AI applications.
+
+- **Embedded Systems & IoT**  
+  Developing firmware and connected devices using ESP32, STM32, Nordic MCUs, Raspberry Pi, and industrial communication protocols.
+
+- **Industrial & Systems Integration**  
+  Connecting sensors, machines, APIs, databases, and intelligent software into complete end-to-end systems.
+
+- **DevOps & Infrastructure**  
+  Deploying and maintaining Linux-based infrastructure with Docker, CI/CD, VPS environments, and automated backups.
+
+- **Computer Vision & Edge AI**  
+  Working with real-time vision systems, segmentation, spatial analysis, and inference on edge hardware.
+
+## Technical Stack
+
+### Languages
+`Python` · `C` · `C++` · `JavaScript` · `Bash`
+
+### Backend & APIs
+`FastAPI` · `Flask` · `Django` · `Node.js` · `REST` · `WebSockets`
+
+### AI / ML
+`LLM Applications` · `RAG` · `LangChain` · `Computer Vision` · `YOLO` · `CNNs` · `Predictive Analytics` · `Edge AI`
+
+### Embedded & IoT
+`ESP32` · `STM32` · `nRF5xxx` · `Arduino` · `Raspberry Pi` · `MQTT`  
+`I2C` · `SPI` · `UART` · `RS485` · `Modbus` · `OPC UA` · `BLE`
+
+### Web
+`React` · `Next.js` · `Vue.js` · `MERN`
+
+### Databases
+`PostgreSQL` · `MongoDB` · `InfluxDB` · `CouchDB`
+
+### DevOps & Infrastructure
+`Linux` · `Docker` · `GitHub Actions` · `CI/CD` · `VPS Administration` · `Caddy`
+
+### Engineering
+`SolidWorks` · `CFD` · `MATLAB` · `3D Printing` · `CNC`
+
+## Areas of Interest
+
+I am particularly interested in projects involving:
+
+- Intelligent industrial systems
+- AI-powered applications and LLM systems
+- Edge AI and computer vision
+- Embedded and IoT platforms
+- Industrial automation and communication
+- Real-time data systems
+- Hardware-software integration
+- Scalable backend infrastructure
+
+## What I Bring
+
+My background sits between traditional software engineering and physical systems.
+
+I can work on the **firmware and electronics interface**, build the **backend and APIs**, integrate **AI/ML**, connect industrial protocols and sensors, and deploy the resulting system on **Linux, edge hardware, or cloud infrastructure**.
+
+That allows me to approach a project as a complete system rather than as an isolated software component.
+
+## Experience
+
+I have worked on systems involving:
+
+- Production LLM and Retrieval-Augmented Generation (RAG) applications
+- Industrial computer vision and volumetric analysis
+- Edge AI deployment on CPU/NPU hardware
+- Industrial IoT and machine communication
+- Embedded and biometric systems
+- Predictive analytics for energy systems
+- Large-scale IoT deployments
+- Linux infrastructure, Docker, and CI/CD
+- Hardware prototyping, CAD, CFD, and automation
 
 
-# 👋 Hi there! Welcome to my GitHub!  
+## Find Me
 
-I'm a **Mechatronics Engineer** with a strong passion for creating innovative solutions at the intersection of hardware and software. 🚀  
-
-## 🌟 What I do:  
-- 💻 **Python Enthusiast**: Building automation scripts, data processing tools, and custom applications.  
-- 🔌 **Firmware Development**: Writing efficient code for microcontrollers (ESP32, Arduino, etc.).  
-- 🌐 **IoT Innovator**: Connecting devices and creating intuitive dashboards for smart systems.  
-- ⚡ **Automation Specialist**: Simplifying complex workflows with creative programming.  
-- 🌍 **MERN Stack Developer**: Crafting full-stack web applications to solve real-world problems.  
-
-## 🔧 Technologies I work with:  
-- **Languages**: Python, JavaScript, C/C++  
-- **Frameworks & Tools**: Flask, Django, React, Node.js, Express  
-- **Hardware**: ESP32, Arduino, Raspberry Pi  
-- **Other**: MongoDB, REST APIs, WebSockets  
-
-## 🌟 Current Focus:  
-- Building IoT-based solutions using ESP32  
-- Developing automation scripts and tools in Python  
-- Exploring real-time applications with the MERN stack  
+- GitHub: [github.com/Amha-Endrayes](https://github.com/Amha-Endrayes)
+- LinkedIn: [linkedin.com/in/amha-endrayes](https://www.linkedin.com/)
+- Website / Links: [linktr.ee/amha.endrayes](https://linktr.ee/amha.endrayes)
 
 ---
 
-Feel free to explore my projects and connect if you’d like to collaborate! 😊  
-
-
-<!--
-**Amha-Endrayes/Amha-Endrayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building systems where software, hardware, data, and intelligence meet.
