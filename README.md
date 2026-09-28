@@ -15,7 +15,7 @@ With 6+ years of engineering experience, I have worked across backend developmen
   Building LLM and RAG systems, computer vision pipelines, predictive models, and edge AI applications.
 
 - **Embedded Systems & IoT**  
-  Developing firmware and connected devices using ESP32, STM32, Nordic MCUs, Raspberry Pi, and industrial communication protocols.
+  Developing firmware and connected devices using ESP32, STM32, Nordic MCUs, Raspberry Pi, Rockchip and industrial communication protocols.
 
 - **Industrial & Systems Integration**  
   Connecting sensors, machines, APIs, databases, and intelligent software into complete end-to-end systems.
